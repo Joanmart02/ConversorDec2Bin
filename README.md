@@ -1,5 +1,6 @@
 # Fichero Readme.md
-## Joan Martín Rodríguez
+## Laboratorio sesión 2
+### Joan Martín Rodríguez
 
 
 **¿Qué es _Lorem Ipsum_?** ❗
