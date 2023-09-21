@@ -16,7 +16,7 @@ Lista de recursos para realizar la práctica:
 7. línea horizontal
 
 ![lenguaje de programación.](https://github.com/Joanmart02/ConversorDec2Bin/assets/145029947/c4a65ec1-c764-4e62-b2e6-7ba88954bd8c)
-
+--------------------------------------------
 > [!WARNING]
 > Esto es una alerta.
 > 
